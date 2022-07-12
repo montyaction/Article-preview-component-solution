@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/montyaction/Article-preview-component-solution)
-- Live Site URL: [Add live site URL here](https://musical-donut-12636d.netlify.app/)
+- Live Site URL: [Add live site URL here](https://article-preview-component-solution-two.vercel.app/)
 
 ## My process
 
